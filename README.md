@@ -55,4 +55,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Enjoy racing your cars! 🏎️💨
+Enjoy racing your cars! 🏎️
